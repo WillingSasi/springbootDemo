@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+#spring:
+#  rabbitmq:
+#    addresses: xxxxxx
+#    virtual-host: xxxxxx
+#    username: xxxx
+#    password: xxx
+#    template:
+#      exchange: xxxx
+#      routing-key: xxxxxx
+#      default-receive-queue: xxxxxx
+#    listener:
+#      simple:
+#        acknowledge-mode: manual
+#        concurrency: 3
+#        max-concurrency: 10
